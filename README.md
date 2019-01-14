@@ -1,2 +1,2 @@
 # meteo-mayotte
-précipitaitons, températures, ETP et prévisions agricoles
+>précipitations, températures, ETP et prévisions agricoles
